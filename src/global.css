@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-open-sans: "Open Sans";
+  --font-roboto: Roboto;
+  --font-lato: Lato;
+
+  /* font sizes */
+  --font-size-lg: 18px;
+  --font-size-8xl: 27px;
+  --font-size-9xl: 28px;
+  --font-size-xl: 20px;
+  --font-size-18xl: 37px;
+  --font-size-base: 16px;
+  --font-size-3xl: 22px;
+  --font-size-7xl: 26px;
+  --font-size-13xl: 32px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkslateblue-100: #063e7a;
+  --color-darkslateblue-200: #21254f;
+  --color-darkslateblue-300: #202452;
+  --color-mediumseagreen-100: #1ba651;
+  --color-steelblue-100: #485881;
+  --color-darkgray: #9b9b9b;
+  --color-black: #000;
+  --color-whitesmoke: #e9ecf0;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+  --br-xl: 20px;
+}

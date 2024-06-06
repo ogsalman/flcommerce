@@ -1,0 +1,470 @@
+.getStartedChild {
+  position: absolute;
+  top: 1220px;
+  left: 94px;
+  background-color: var(--color-darkslateblue-300);
+  border: 4px solid var(--color-mediumseagreen-100);
+  box-sizing: border-box;
+  width: 1732px;
+  height: 476px;
+}
+.image13Icon {
+  position: absolute;
+  top: 0;
+  left: 0px;
+  width: 2486px;
+  height: 758px;
+  object-fit: cover;
+}
+.groupChild {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-mediumseagreen-100);
+  box-sizing: border-box;
+  width: 687px;
+}
+.groupItem,
+.rectangleParent {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+.groupItem {
+  height: 100%;
+  top: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-mediumseagreen-100);
+  box-sizing: border-box;
+  width: 687px;
+}
+.rectangleParent {
+  height: calc(100% - 92px);
+  width: 100%;
+  top: 92px;
+  left: 0;
+}
+.whyTheTalent {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: calc(50% - 393.5px);
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 700;
+  font-family: inherit;
+}
+.groupParent {
+  position: absolute;
+  bottom: 246px;
+  left: 260px;
+  width: 1403px;
+  height: 531px;
+  font-size: var(--font-size-18xl);
+  color: var(--color-darkslateblue-200);
+}
+.forCandidates,
+.forHiringCompanies {
+  margin: 0;
+  position: absolute;
+  top: 1962px;
+  left: 516px;
+  font-size: var(--font-size-7xl);
+  text-transform: capitalize;
+  font-weight: 700;
+  font-family: inherit;
+  color: var(--color-mediumseagreen-100);
+}
+.forHiringCompanies {
+  left: 1193px;
+}
+.remainAnonymousEntertain {
+  display: block;
+}
+.remainAnonymousEntertainContainer,
+.utilizeTheDesiresBasedContainer {
+  margin: 0;
+  position: absolute;
+  bottom: 287px;
+  left: 336px;
+  font-size: var(--font-size-3xl);
+  line-height: 31px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 537px;
+  height: 220px;
+}
+.utilizeTheDesiresBasedContainer {
+  left: 1052px;
+}
+.getStartedItem,
+.nounBriefcase5081189Icon {
+  position: absolute;
+  top: 1888.02px;
+  left: 575.61px;
+  width: 56.8px;
+  height: 45.5px;
+}
+.getStartedItem {
+  top: 198px;
+  left: 1056px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 507px;
+  height: 608px;
+}
+.getStartedChild1,
+.getStartedChild2,
+.getStartedChild3,
+.getStartedChild4,
+.getStartedInner,
+.rectangleInput {
+  border: 1px solid var(--color-steelblue-100);
+  outline: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 359px;
+  left: 1110px;
+  box-sizing: border-box;
+  width: 189px;
+  height: 60px;
+}
+.getStartedChild1,
+.getStartedChild2,
+.getStartedChild3,
+.getStartedChild4,
+.rectangleInput {
+  left: 1310px;
+  width: 200px;
+}
+.getStartedChild1,
+.getStartedChild2,
+.getStartedChild3,
+.getStartedChild4 {
+  top: 500px;
+}
+.getStartedChild2,
+.getStartedChild3,
+.getStartedChild4 {
+  top: 430px;
+  left: 1110px;
+  width: 400px;
+}
+.getStartedChild3,
+.getStartedChild4 {
+  top: 499px;
+  width: 189px;
+}
+.getStartedChild4 {
+  top: 570px;
+  width: 400px;
+}
+.emailAddresss,
+.firstName,
+.lastName,
+.phoneNumber,
+.pleaseSelectAn,
+.zipCode {
+  position: absolute;
+  top: 378px;
+  left: 1123px;
+  line-height: 23px;
+  font-weight: 500;
+  text-align: left;
+}
+.emailAddresss,
+.lastName,
+.phoneNumber,
+.pleaseSelectAn,
+.zipCode {
+  top: 449px;
+}
+.lastName,
+.phoneNumber,
+.pleaseSelectAn,
+.zipCode {
+  top: 518px;
+}
+.lastName,
+.pleaseSelectAn,
+.zipCode {
+  top: 590px;
+}
+.lastName,
+.zipCode {
+  top: 378px;
+  left: 1328px;
+}
+.zipCode {
+  top: 519px;
+}
+.signUpNow {
+  margin: 0;
+  position: absolute;
+  top: 231px;
+  left: 1204px;
+  font-size: var(--font-size-18xl);
+  line-height: 39px;
+  text-transform: capitalize;
+  font-weight: 900;
+  font-family: inherit;
+  color: var(--color-darkslateblue-200);
+}
+.interestedInMore {
+  margin: 0;
+  position: absolute;
+  top: 290px;
+  left: 1182px;
+  font-size: var(--font-size-lg);
+  line-height: 23px;
+  color: #435884;
+  display: inline-block;
+  width: 257px;
+  height: 50px;
+}
+.nounDropdown3574472Icon,
+.rectangleButton {
+  position: absolute;
+  top: 586px;
+  left: 1473px;
+  width: 30px;
+  height: 30px;
+}
+.rectangleButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #00a651;
+  top: 656px;
+  left: 1326px;
+  border-radius: var(--br-3xs);
+  width: 184px;
+  height: 54px;
+}
+.signUp,
+.welcomeToThe {
+  position: absolute;
+  color: var(--color-white);
+}
+.signUp {
+  top: 671px;
+  left: 1378px;
+  font-size: var(--font-size-xl);
+  text-transform: uppercase;
+  font-weight: 900;
+  font-family: var(--font-lato);
+}
+.welcomeToThe {
+  top: 297px;
+  left: 318px;
+  font-size: 47px;
+  line-height: 62px;
+  font-weight: 500;
+  text-align: left;
+  display: inline-block;
+  width: 598px;
+  height: 281px;
+}
+.image12Icon {
+  position: absolute;
+  top: 84px;
+  left: 155px;
+  width: 354px;
+  height: 33px;
+  object-fit: cover;
+}
+.groupIcon {
+  position: absolute;
+  top: 1887.95px;
+  left: 1291.61px;
+  width: 59px;
+  height: 44.1px;
+}
+.linkedinIcon {
+  position: absolute;
+  top: 84.71px;
+  right: 241.44px;
+  width: 24.9px;
+  height: 24.9px;
+}
+.xLogo2023OriginalIcon {
+  position: absolute;
+  top: 85px;
+  right: 200.05px;
+  width: 24px;
+  height: 24.1px;
+}
+.getStartedChild5 {
+  position: absolute;
+  top: 85.56px;
+  right: 283.79px;
+  width: 34.3px;
+  height: 24px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 752px;
+  left: -22px;
+  background-color: var(--color-mediumseagreen-100);
+  width: 1948px;
+  height: 12px;
+}
+.getStartedChild6 {
+  position: absolute;
+  bottom: 0;
+  left: -36px;
+  background-color: var(--color-darkslateblue-200);
+  width: 1993px;
+  height: 124px;
+}
+.poweredByGogig {
+  position: absolute;
+  right: 239.96px;
+  bottom: 47.6px;
+  width: 225.7px;
+  height: 29.4px;
+}
+.thisNewCareer {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  left: 0;
+  line-height: 40px;
+  font-weight: 500;
+  display: inline-block;
+  width: 751px;
+}
+.image24Icon {
+  position: absolute;
+  height: calc(100% - 8px);
+  top: 8px;
+  right: 0;
+  bottom: 0;
+  max-height: 100%;
+  width: 607px;
+  object-fit: cover;
+}
+.thisNewCareerAdvancementPlParent {
+  position: absolute;
+  top: 1316px;
+  left: 234px;
+  width: 1452px;
+  height: 277px;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-white);
+}
+.floridacommerceAndSpace {
+  position: absolute;
+  right: -1px;
+  bottom: 72px;
+  line-height: 39px;
+  font-weight: 500;
+  display: inline-block;
+  width: 653px;
+  height: 261px;
+}
+.fltppUimockupIcon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 1068px;
+  object-fit: cover;
+}
+.floridacommerceAndSpaceFlorParent {
+  position: absolute;
+  top: 611px;
+  left: 81px;
+  width: 1758px;
+  height: 600px;
+  text-align: left;
+  font-size: var(--font-size-8xl);
+  color: var(--color-darkslateblue-100);
+}
+.linkedinIcon1 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 7.3px);
+  max-height: 100%;
+  width: 24.9px;
+}
+.xLogo2023OriginalIcon1 {
+  position: absolute;
+  height: calc(100% - 0.8px);
+  top: 0.29px;
+  right: 0.06px;
+  bottom: 0.51px;
+  max-height: 100%;
+  width: 24px;
+}
+.groupInner {
+  position: absolute;
+  height: calc(100% - 0.9px);
+  top: 0.85px;
+  bottom: 0.05px;
+  left: 0;
+  max-height: 100%;
+  width: 34.3px;
+}
+.linkedinParent {
+  position: absolute;
+  bottom: 49.1px;
+  left: 424.91px;
+  width: 118.1px;
+  height: 24.9px;
+}
+.connectWithUs,
+.resources {
+  position: absolute;
+  text-transform: capitalize;
+}
+.connectWithUs {
+  bottom: 50px;
+  left: 248px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-open-sans);
+  color: var(--color-white);
+}
+.resources {
+  top: 0;
+  left: 0;
+}
+.nounBook220017Icon {
+  position: absolute;
+  height: calc(100% - 0.5px);
+  top: 0;
+  right: -0.02px;
+  bottom: 0.5px;
+  max-height: 100%;
+  width: 36.4px;
+}
+.resourcesParent {
+  position: absolute;
+  bottom: 50px;
+  left: 892px;
+  width: 137px;
+  height: 24px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-open-sans);
+}
+.getStarted {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2535px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-darkgray);
+  font-family: var(--font-roboto);
+}

@@ -1,0 +1,392 @@
+.homeChild {
+  position: absolute;
+  top: 1220px;
+  left: 94px;
+  background-color: var(--color-darkslateblue-300);
+  border: 2px solid var(--color-mediumseagreen-100);
+  box-sizing: border-box;
+  width: 1732px;
+  height: 476px;
+}
+.image13Icon {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 758px;
+  object-fit: cover;
+}
+.groupChild {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-mediumseagreen-100);
+  box-sizing: border-box;
+  width: 687px;
+}
+.groupItem,
+.rectangleParent {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+.groupItem {
+  height: 100%;
+  top: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-mediumseagreen-100);
+  box-sizing: border-box;
+  width: 687px;
+}
+.rectangleParent {
+  height: calc(100% - 92px);
+  width: 100%;
+  top: 92px;
+  left: 0;
+}
+.whyTheTalent {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 393.5px);
+  text-transform: capitalize;
+  font-weight: 700;
+}
+.groupParent {
+  position: absolute;
+  bottom: 398px;
+  left: 259px;
+  width: 1403px;
+  height: 531px;
+  font-size: var(--font-size-18xl);
+  color: var(--color-darkslateblue-200);
+}
+.forCandidates,
+.forHiringCompanies {
+  margin: 0;
+  position: absolute;
+  top: 1962px;
+  left: 516px;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 700;
+  font-family: inherit;
+  color: var(--color-mediumseagreen-100);
+}
+.forHiringCompanies {
+  left: 1193px;
+}
+.remainAnonymousEntertain {
+  display: block;
+}
+.remainAnonymousEntertainContainer,
+.utilizeTheDesiresBasedContainer {
+  margin: 0;
+  position: absolute;
+  top: 2028px;
+  left: 336px;
+  font-size: var(--font-size-3xl);
+  line-height: 31px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 537px;
+  height: 220px;
+}
+.utilizeTheDesiresBasedContainer {
+  left: 1052px;
+}
+.nounBriefcase5081189Icon {
+  position: absolute;
+  top: 1888.02px;
+  left: 575.61px;
+  width: 56.8px;
+  height: 45.5px;
+}
+.welcomeToThe {
+  margin: 0;
+}
+.welcomeToTheContainer {
+  margin: 0;
+  position: absolute;
+  top: 291px;
+  left: 400px;
+  font-size: 51px;
+  line-height: 67px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.image12Icon {
+  position: absolute;
+  top: 84px;
+  left: 155px;
+  width: 354px;
+  height: 33px;
+  object-fit: cover;
+}
+.homeItem {
+  position: absolute;
+  top: 1887.95px;
+  left: 1291.61px;
+  width: 59px;
+  height: 44.1px;
+}
+.linkedinIcon {
+  position: absolute;
+  top: 84.71px;
+  right: 241.44px;
+  width: 24.9px;
+  height: 24.9px;
+}
+.groupInner,
+.xLogo2023OriginalIcon {
+  position: absolute;
+  top: 85px;
+  right: 200.05px;
+  width: 24px;
+  height: 24.1px;
+}
+.groupInner {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.homeInner {
+  text-decoration: none;
+  position: absolute;
+  top: 85.56px;
+  right: 283.79px;
+  width: 34.3px;
+  height: 24px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 752px;
+  left: -22px;
+  background-color: var(--color-mediumseagreen-100);
+  width: 1948px;
+  height: 12px;
+}
+.thisNewCareer {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  left: 0;
+  line-height: 40px;
+  font-weight: 500;
+  display: inline-block;
+  width: 751px;
+}
+.image24Icon {
+  position: absolute;
+  height: calc(100% - 8px);
+  top: 8px;
+  right: 0;
+  bottom: 0;
+  max-height: 100%;
+  width: 607px;
+  object-fit: cover;
+}
+.thisNewCareerAdvancementPlParent {
+  position: absolute;
+  top: 1316px;
+  left: 234px;
+  width: 1452px;
+  height: 277px;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+}
+.floridacommerceAndSpace {
+  position: absolute;
+  right: -1px;
+  bottom: 72px;
+  line-height: 39px;
+  font-weight: 500;
+  display: inline-block;
+  width: 653px;
+  height: 261px;
+}
+.flcommerceUimockupIcon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 1068px;
+  object-fit: cover;
+}
+.floridacommerceAndSpaceFlorParent {
+  position: absolute;
+  top: 611px;
+  left: 81px;
+  width: 1758px;
+  height: 600px;
+  text-align: left;
+  font-size: var(--font-size-8xl);
+  color: var(--color-darkslateblue-100);
+}
+.getStarted {
+  position: absolute;
+  top: calc(50% - 13.5px);
+  left: calc(50% - 65px);
+  font-size: var(--font-size-xl);
+  text-transform: uppercase;
+  font-weight: 900;
+  font-family: var(--font-lato);
+  color: var(--color-white);
+  text-align: center;
+}
+.getStartedWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-mediumseagreen-100);
+  position: absolute;
+  top: 483px;
+  left: 857px;
+  border-radius: var(--br-3xs);
+  width: 206px;
+  height: 57px;
+}
+.interestedInSourcing {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 700;
+  font-family: inherit;
+}
+.getStarted1 {
+  position: absolute;
+  top: calc(50% - 13.5px);
+  left: calc(50% - 65px);
+  text-transform: uppercase;
+  font-weight: 900;
+}
+.getStartedContainer {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 103px);
+  border-radius: var(--br-3xs);
+  background-color: var(--color-mediumseagreen-100);
+  width: 206px;
+  height: 57px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-lato);
+}
+.interestedInSourcingTalentParent {
+  position: absolute;
+  bottom: 194px;
+  left: 632px;
+  width: 656px;
+  height: 113px;
+  color: var(--color-darkslateblue-200);
+}
+.homeChild1 {
+  position: absolute;
+  bottom: 0;
+  left: -36px;
+  background-color: var(--color-darkslateblue-200);
+  width: 1993px;
+  height: 124px;
+}
+.poweredByGogig {
+  position: absolute;
+  right: 239.96px;
+  bottom: 47.6px;
+  width: 225.7px;
+  height: 29.4px;
+}
+.linkedinIcon1 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 7.3px);
+  max-height: 100%;
+  width: 24.9px;
+}
+.xLogo2023OriginalIcon1 {
+  position: absolute;
+  height: calc(100% - 0.8px);
+  top: 0.29px;
+  right: 0.06px;
+  bottom: 0.51px;
+  max-height: 100%;
+  width: 24px;
+}
+.groupIcon {
+  position: absolute;
+  height: calc(100% - 0.9px);
+  top: 0.85px;
+  bottom: 0.05px;
+  left: 0;
+  max-height: 100%;
+  width: 34.3px;
+}
+.linkedinParent {
+  position: absolute;
+  bottom: 49.1px;
+  left: 424.91px;
+  width: 118.1px;
+  height: 24.9px;
+}
+.connectWithUs,
+.resources {
+  position: absolute;
+  text-transform: capitalize;
+}
+.connectWithUs {
+  margin: 0;
+  bottom: 50px;
+  left: 248px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-open-sans);
+}
+.resources {
+  top: 0;
+  left: 0;
+}
+.nounBook220017Icon {
+  position: absolute;
+  height: calc(100% - 0.5px);
+  top: 0;
+  right: -0.02px;
+  bottom: 0.5px;
+  max-height: 100%;
+  width: 36.4px;
+}
+.resourcesParent {
+  position: absolute;
+  bottom: 50px;
+  left: 892px;
+  width: 137px;
+  height: 24px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-open-sans);
+}
+.home {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2687px;
+  text-align: center;
+  font-size: var(--font-size-7xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}

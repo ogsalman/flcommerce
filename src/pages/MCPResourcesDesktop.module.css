@@ -1,0 +1,370 @@
+.image12Icon,
+.image13Icon {
+  position: absolute;
+  top: 0;
+  left: 0px;
+  width: 2486px;
+  height: 758px;
+  object-fit: cover;
+}
+.image12Icon {
+  top: 84px;
+  left: 155px;
+  width: 354px;
+  height: 33px;
+}
+.linkedinIcon {
+  position: absolute;
+  top: 84.71px;
+  right: 241.44px;
+  width: 24.9px;
+  height: 24.9px;
+}
+.resourcesChild,
+.xLogo2023OriginalIcon {
+  position: absolute;
+  top: 85px;
+  right: 200.05px;
+  width: 24px;
+  height: 24.1px;
+}
+.resourcesChild {
+  top: 85.56px;
+  right: 283.79px;
+  width: 34.3px;
+  height: 24px;
+}
+.resourcesInner,
+.resourcesItem {
+  position: absolute;
+  bottom: 297px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-whitesmoke);
+  box-sizing: border-box;
+  width: 700px;
+  height: 1300px;
+}
+.resourcesItem {
+  right: 225px;
+}
+.resourcesInner {
+  left: 225px;
+}
+.itsCommonFor {
+  position: absolute;
+  width: calc(100% - 97px);
+  top: calc(50% - 218px);
+  left: 0;
+  line-height: 37px;
+  display: inline-block;
+  height: 387px;
+}
+.talentPipelinePortalIpAddr {
+  margin-block-start: 0;
+  margin-block-end: 4px;
+}
+.talentpipelineorginfo {
+  margin: 0;
+}
+.talentPipelinePortalContainer {
+  position: absolute;
+  width: calc(100% - 107px);
+  bottom: 102px;
+  left: 0;
+  line-height: 32px;
+  display: inline-block;
+  height: 285px;
+}
+.whitelistInformation {
+  width: calc(100% - 154px);
+  top: calc(50% - 284px);
+  font-size: var(--font-size-13xl);
+  text-transform: capitalize;
+  font-weight: 700;
+  display: inline-block;
+  height: 50px;
+}
+.learnMore,
+.maskGroup2,
+.whitelistInformation {
+  position: absolute;
+  left: 0;
+}
+.learnMore {
+  text-decoration: underline;
+  width: calc(100% - 154px);
+  bottom: 0;
+  text-transform: capitalize;
+  font-weight: 700;
+  color: var(--color-mediumseagreen-100);
+  display: inline-block;
+  height: 50px;
+}
+.maskGroup2 {
+  width: 100%;
+  top: 0;
+  right: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 255px;
+  object-fit: cover;
+}
+.itsCommonForOrganizationsParent {
+  position: absolute;
+  top: 681px;
+  left: 1084px;
+  width: 535px;
+  height: 1206px;
+  text-align: left;
+  color: var(--color-black);
+}
+.path212Icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.nounCheckMark344373 {
+  position: absolute;
+  top: 1161.4px;
+  left: 299.93px;
+  width: 28.1px;
+  height: 28.1px;
+}
+.ifYouAre {
+  margin: 0;
+  position: absolute;
+  width: calc(100% - 98.1px);
+  top: calc(50% - 218px);
+  left: 5.07px;
+  line-height: 37px;
+  display: inline-block;
+  height: 120px;
+}
+.clearYourCache,
+.clickTheLockContainer,
+.reachOutTo {
+  position: absolute;
+  width: calc(100% - 139.1px);
+  top: calc(50% - 125px);
+  left: 35.07px;
+  line-height: 40px;
+  display: inline-block;
+  height: 44px;
+}
+.clickTheLockContainer,
+.reachOutTo {
+  top: calc(50% + 218px);
+}
+.clickTheLockContainer {
+  width: calc(100% - 34.1px);
+  top: calc(50% - 21px);
+  line-height: 36px;
+  height: 211px;
+}
+.bottomRightCorner {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.clickOnTheContainer {
+  position: absolute;
+  width: calc(100% - 34.1px);
+  bottom: 84px;
+  left: 35.07px;
+  line-height: 36px;
+  display: inline-block;
+  height: 257px;
+}
+.contactSupport,
+.tipsTricks {
+  position: absolute;
+  width: calc(100% - 186.1px);
+  left: 5.07px;
+  text-transform: capitalize;
+  font-weight: 700;
+  display: inline-block;
+  height: 50px;
+}
+.tipsTricks {
+  margin: 0;
+  top: calc(50% - 284px);
+  font-size: var(--font-size-13xl);
+  font-family: inherit;
+}
+.contactSupport {
+  text-decoration: underline;
+  bottom: 0;
+  color: var(--color-mediumseagreen-100);
+}
+.maskGroup1 {
+  position: absolute;
+  width: calc(100% - 38.1px);
+  top: 0;
+  right: 27.03px;
+  left: 11.07px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 255px;
+  object-fit: cover;
+}
+.removingCookies {
+  position: absolute;
+  height: 100%;
+  width: calc(100% - 34.1px);
+  top: 0;
+  left: 35.07px;
+  line-height: 40px;
+  display: inline-block;
+}
+.nounCheckMark344373Icon {
+  position: absolute;
+  top: 1.97px;
+  left: 0;
+  width: 28.1px;
+  height: 28.1px;
+}
+.removingCookiesParent {
+  position: absolute;
+  top: calc(50% - 65px);
+  left: 0;
+  width: 462.1px;
+  height: 44px;
+}
+.ifYouAreExperiencingIssuesParent {
+  position: absolute;
+  top: 681px;
+  left: 299.93px;
+  width: 567.1px;
+  height: 1206px;
+  text-align: left;
+  color: var(--color-black);
+}
+.nounCheckMark344373Icon1 {
+  position: absolute;
+  top: 1504.97px;
+  left: 299.93px;
+  width: 28.1px;
+  height: 28.1px;
+}
+.floridacommerceTalentPipelin {
+  margin: 0;
+  position: absolute;
+  top: 389px;
+  left: 538px;
+  font-size: var(--font-size-8xl);
+  line-height: 39px;
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  display: inline-block;
+  width: 846px;
+  height: 261px;
+}
+.rectangleDiv {
+  position: absolute;
+  bottom: -3px;
+  left: -36px;
+  background-color: var(--color-darkslateblue-200);
+  width: 1993px;
+  height: 124px;
+}
+.poweredByGogig {
+  position: absolute;
+  right: 239.96px;
+  bottom: 44.6px;
+  width: 225.7px;
+  height: 29.4px;
+}
+.linkedinIcon1 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 7.3px);
+  max-height: 100%;
+  width: 24.9px;
+}
+.xLogo2023OriginalIcon1 {
+  position: absolute;
+  height: calc(100% - 0.8px);
+  top: 0.29px;
+  right: 0.06px;
+  bottom: 0.51px;
+  max-height: 100%;
+  width: 24px;
+}
+.groupChild {
+  position: absolute;
+  height: calc(100% - 0.9px);
+  top: 0.85px;
+  bottom: 0.05px;
+  left: 0;
+  max-height: 100%;
+  width: 34.3px;
+}
+.linkedinParent {
+  position: absolute;
+  bottom: 46.1px;
+  left: 424.91px;
+  width: 118.1px;
+  height: 24.9px;
+}
+.connectWithUs,
+.resources1 {
+  position: absolute;
+  text-transform: capitalize;
+}
+.connectWithUs {
+  bottom: 47px;
+  left: 248px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-open-sans);
+}
+.resources1 {
+  top: 0;
+  left: 0;
+}
+.nounBook220017Icon {
+  position: absolute;
+  height: calc(100% - 0.5px);
+  top: 0;
+  right: -0.02px;
+  bottom: 0.5px;
+  max-height: 100%;
+  width: 36.4px;
+}
+.resourcesParent {
+  position: absolute;
+  bottom: 47px;
+  left: 892px;
+  width: 137px;
+  height: 24px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-open-sans);
+}
+.resources2 {
+  margin: 0;
+  position: absolute;
+  top: 261px;
+  left: 802px;
+  font-size: 67px;
+  line-height: 49px;
+  font-weight: 500;
+  font-family: var(--font-roboto);
+}
+.resources {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2224px;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+  font-family: var(--font-lato);
+}
